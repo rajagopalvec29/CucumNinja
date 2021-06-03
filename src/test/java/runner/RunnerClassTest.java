@@ -7,5 +7,5 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features="featuresfiles/OpenNinja.feature",glue="ninjaSteps",monochrome=true)
-public class RunnerClass {	
+public class RunnerClassTest {	
 }
